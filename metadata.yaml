@@ -1,4 +1,8 @@
 _repo: Memorias-de-un-Hombre-de-Accion-2-El-Escuadron-del-Brigante_48783
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48783-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48783#Memorias-de-un-Hombre-de-Accion-2-El-Escuadron-del-Brigante
 gutenberg_issued: '2015-04-24'
 gutenberg_type: Text
 identifiers:
